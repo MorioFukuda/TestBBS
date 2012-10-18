@@ -1,0 +1,28 @@
+div#login_bar{
+
+	position: absolute;
+	top: 50%;
+	margin-top: -100px;
+	height: 200px;
+	width: 100%;
+	background: url('../img/navi_bg.png') repeat-x;
+
+}
+
+#logo{
+	position: relative;
+	top: 60px;
+	left: 150px;
+}
+
+#login_form{
+	position: absolute;
+	top: 85px;
+	left: 600px;
+}
+
+.submit{
+	position: relative;
+	left: 450px;
+	top: -25px;
+}
